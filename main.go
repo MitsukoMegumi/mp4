@@ -1,7 +1,7 @@
 package main
 import (
 	"os"
-	"github.com/nareix/mp4"
+	"github.com/banlong/mp4"
 	"fmt"
 	"encoding/hex"
 )
